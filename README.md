@@ -29,7 +29,7 @@
 
 🎓 Pursuing **B.Tech in Computer Engineering** at **GIFT Autonomous, Bhubaneswar**.
 
-💡 Passionate about building scalable **MERN Stack** applications and solving real-world problems through software development.
+
 
 🌱 Currently strengthening my skills in
 
@@ -40,15 +40,6 @@
 * Database Design
 
 ---
-
-# 🎯 Core Expertise
-
-* 💻 MERN Stack Development
-* ⚡ REST API Development
-* 🗄 Database Design
-* 📱 Responsive Web Design
-* 🔒 Authentication & Authorization
-* 🌐 Full Stack Application Development
 
 ---
 
@@ -97,30 +88,7 @@
 
 ---
 
-# 🚀 Featured Projects
 
-## 📌 Clixter
-
-**MERN Stack Content Sharing Platform**
-
-* 🔐 Secure User Authentication
-* 📝 CRUD Operations
-* ⚡ REST APIs
-* 📱 Responsive React Interface
-* 🍃 MongoDB Database
-
----
-
-## 🌍 TourSafe
-
-**Travel Safety Web Application**
-
-* 🚨 Red Zone & Green Zone Classification
-* 📍 Interactive Safety Dashboard
-* ⚡ Node.js & Express Backend
-* ⚛ React Frontend
-
----
 
 # 🏆 Achievements
 
@@ -134,30 +102,7 @@
 
 ---
 
-# 💼 Internship Experience
 
-## Core Java Intern
-
-**CTTC, Bhubaneswar**
-
-* Java Programming
-* OOP Concepts
-* Exception Handling
-* Application Development
-
----
-
-## MERN Stack Intern
-
-**Glucian, Bhubaneswar**
-
-* Built Full Stack Applications
-* Authentication System
-* REST APIs
-* MongoDB Schema Design
-* Team Collaboration
-
----
 
 # 📊 GitHub Stats
 
