@@ -1,198 +1,131 @@
+# 💻 Hacker-Style GitHub README
+
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Ananta%20Kumar%20Parida&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=250&section=header&text=ANANTA%20KUMAR%20PARIDA&fontColor=00ff41&fontSize=42&animation=fadeIn"/>
 
-# 👋 Hi, I'm **Ananta Kumar Parida**
-
-### 💻 Full Stack Developer | MERN Stack Enthusiast | B.Tech Computer Engineering Student
-
-<p>
-<a href="https://linkedin.com/in/ananta-kumar-parida-24b991294">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/anuxoo001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:aparida2023@gift.edu.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+using+Java;Building+the+Future..."/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🖥️ $ whoami
 
-🎓 Pursuing **B.Tech in Computer Engineering** at **GIFT Autonomous, Bhubaneswar**.
+```bash
+Name      : Ananta Kumar Parida
+Education : B.Tech Computer Engineering
+College   : GIFT Autonomous, Bhubaneswar
 
-💡 Passionate about building scalable **MERN Stack** applications and solving real-world problems through software development.
+Role       : Full Stack Developer
+Stack      : MERN
+Learning   : Backend Engineering
 
-🌱 Currently strengthening my skills in
-
-* Full Stack Web Development
-* Data Structures & Algorithms (Java)
-* Backend Development
-* REST API Development
-* Database Design
-
----
-
-# 🎯 Core Expertise
-
-* 💻 MERN Stack Development
-* ⚡ REST API Development
-* 🗄 Database Design
-* 📱 Responsive Web Design
-* 🔒 Authentication & Authorization
-* 🌐 Full Stack Application Development
+Status     : Coding...
+````
 
 ---
 
-# 🛠 Technology Stack
+# ⚡ $ tech-stack
 
 <div align="center">
 
-### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript"/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express"/>
 
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
-
-### ⚙ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-
-### 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-### 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-5C2D91?style=flat-square)
-
-### ☁ Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square\&logo=githubpages\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 $ projects
 
-## 📌 Clixter
+### 📂 Clixter
 
-**MERN Stack Content Sharing Platform**
+> MERN Content Sharing Platform
 
-* 🔐 Secure User Authentication
-* 📝 CRUD Operations
-* ⚡ REST APIs
-* 📱 Responsive React Interface
-* 🍃 MongoDB Database
+✔ Authentication
 
----
+✔ CRUD Operations
 
-## 🌍 TourSafe
+✔ REST APIs
 
-**Travel Safety Web Application**
-
-* 🚨 Red Zone & Green Zone Classification
-* 📍 Interactive Safety Dashboard
-* ⚡ Node.js & Express Backend
-* ⚛ React Frontend
+✔ MongoDB
 
 ---
 
-# 🏆 Achievements
+### 📂 TourSafe
 
-🏅 Core Team Member of the winning team in the Internal Hackathon.
+> Smart Travel Safety Platform
 
-🏅 Selected for **Smart India Hackathon (SIH) 2025**.
+✔ React
 
-🏅 Selected for **National SPARC Workshop, IIT Bhubaneswar (2026)**.
+✔ Node.js
 
-🏅 Solved **100+ DSA Problems** using Java on LeetCode.
+✔ Express
 
----
-
-# 💼 Internship Experience
-
-## Core Java Intern
-
-**CTTC, Bhubaneswar**
-
-* Java Programming
-* OOP Concepts
-* Exception Handling
-* Application Development
+✔ Safety Zone Classification
 
 ---
 
-## MERN Stack Intern
+# 🏆 $ achievements
 
-**Glucian, Bhubaneswar**
+✔ Smart India Hackathon 2025 Finalist
 
-* Built Full Stack Applications
-* Authentication System
-* REST APIs
-* MongoDB Schema Design
-* Team Collaboration
+✔ National SPARC Workshop, IIT Bhubaneswar
+
+✔ 100+ DSA Problems
+
+✔ MERN Stack Internship
 
 ---
 
-# 📊 GitHub Stats
+# 📊 $ github-stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuxoo001&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuxoo001&theme=chartreuse-dark&show_icons=true&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuxoo001&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuxoo001&theme=chartreuse-dark&hide_border=true"/>
 
 <br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuxoo001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuxoo001&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+# 🧠 $ currently-learning
 
-| Goal                         | Status            |
-| ---------------------------- | ----------------- |
-| MERN Stack Development       | 🔄 In Progress    |
-| Data Structures & Algorithms | 🔄 Daily Practice |
-| Backend Engineering          | 🔄 Learning       |
-| Open Source Contribution     | 📅 Planned        |
+```text
+> MERN Architecture
+> Advanced JavaScript
+> REST APIs
+> Database Optimization
+> DSA
+```
 
 ---
 
-# 💡 Philosophy
+# 🌐 $ connect
 
 <div align="center">
 
-## **Learn → Build → Solve → Improve → Repeat**
+<a href="https://linkedin.com/in/ananta-kumar-parida-24b991294">
+<img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 
-*"Every project is an opportunity to learn, innovate, and create software that makes a difference."*
+<a href="https://github.com/anuxoo001">
+<img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="mailto:aparida2023@gift.edu.in">
+<img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
 
 </div>
 
@@ -200,10 +133,18 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=anuxoo001&style=for-the-badge"/>
+```text
+██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝██║   ██║
+██║  ██║█████╗  ██║   ██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝███████╗ ╚████╔╝
+╚═════╝ ╚══════╝  ╚═══╝
 
-### ⭐ Thanks for visiting my profile!
+KEEP BUILDING.
+```
 
-**Let's build something amazing together! 🚀**
+<img src="https://komarev.com/ghpvc/?username=anuxoo001&style=for-the-badge&color=00ff41"/>
 
 </div>
+```
