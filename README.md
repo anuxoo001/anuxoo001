@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=250&section=header&text=Ananta%20Kumar%20Parida&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
@@ -24,14 +23,14 @@
 🎓 **B.Tech Computer Engineering Student**  
 🏫 GIFT Autonomous, Bhubaneswar
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
 - MERN Stack
 - Backend Development
 - Java + DSA
 - System Design
 
-💡 Interested In
+## 💡 Interested In
 
 - Full Stack Web Development
 - REST APIs
@@ -130,13 +129,10 @@
 
 # 🎯 Current Focus
 
-🚀 MERN Stack
-
-⚙ Backend Engineering
-
-📚 Data Structures & Algorithms
-
-🌐 Open Source Contributions
+- 🚀 MERN Stack
+- ⚙ Backend Engineering
+- 📚 Data Structures & Algorithms
+- 🌐 Open Source Contributions
 
 ---
 
@@ -173,4 +169,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=150&section=footer"/>
 
 </div>
-```
