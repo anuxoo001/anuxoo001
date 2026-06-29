@@ -85,17 +85,7 @@
 
 ---
 
-# 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anuxoo001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuxoo001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -107,15 +97,8 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anuxoo001&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
