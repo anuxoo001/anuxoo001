@@ -8,8 +8,7 @@
 
 ### 💻 Full Stack Developer | MERN Stack Enthusiast | Computer Engineering Student
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=anuxoo001&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<p>afile%20Views&color=0e75b6&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/anuxoo001?style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/anuxoo001?style=for-the-badge"/>
 </p>
