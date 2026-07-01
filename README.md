@@ -85,12 +85,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-## 🔥 Current Streak: **16 Days**
-## 🏆 Longest Streak: **36 Days**
 
 <img src="https://streak-stats.demolab.com?user=anuxoo001&theme=tokyonight&hide_border=true"/>
 
