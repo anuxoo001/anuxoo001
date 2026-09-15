@@ -1,207 +1,419 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0284c7&height=230&section=header&text=ANANTA%20KUMAR%20PARIDA&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Developer;Java+%7C+DSA+Enthusiast;Building+Modern+Web+Applications" />
+<img src="./assets/banner.svg" width="100%" alt="Ananta Kumar Parida">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=anuxoo001&label=PROFILE+VIEWS&color=0284c7&style=for-the-badge"/>
+# 👋 Hi, I'm Ananta Kumar Parida
 
-<img src="https://img.shields.io/github/followers/anuxoo001?style=for-the-badge&label=FOLLOWERS"/>
+### 💻 Full Stack Developer | MERN Stack | Java | DSA
 
-<br><br>
+<p>
+I build modern, scalable and interactive web applications using
+<strong>React, Node.js, Express.js, MongoDB and Java</strong>.
+</p>
+
+<br>
 
 <a href="https://github.com/anuxoo001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-anuxoo001-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/ananta-kumar-parida-24b991294/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Ananta%20Kumar%20Parida-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
 <a href="mailto:aparida2023@gift.edu.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email">
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-## ⚡ TECH STACK
-
-<img src="https://skillicons.dev/icons?i=java,js,python,c,react,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,github,postman,vscode&perline=9"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 WHAT I BUILD
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=MERN+Applications;RESTful+APIs;React+Applications;Node.js+Backend;MongoDB+Applications;Responsive+Web+Interfaces"/>
-
-</div>
+```text
+🎓 B.Tech Computer Science & Engineering
+💻 Full Stack Developer
+⚡ MERN Stack Developer
+☕ Java Developer
+🧠 Data Structures & Algorithms
+🌐 REST API Development
+🗄️ MongoDB & MySQL
+🚀 Building real-world projects
+```
 
 ---
 
-# 🚀 PROJECTS
+## ⚡ Tech Stack
 
 <div align="center">
 
-### 📱 CLIXTER
+### 👨‍💻 Programming Languages
 
-MERN Social Content Platform
-
-`React` `Node.js` `Express` `MongoDB` `Socket.IO`
-
-💬 Chat • 🎥 Videos • 📖 Stories • 🔐 Authentication
-
----
-
-### 🛡️ TOURSAFE
-
-Travel Safety Platform
-
-`React` `Node.js` `Express` `MongoDB`
-
-🚨 Red Zone • 🟢 Green Zone • 🔊 Siren • 🌐 REST API
-
----
-
-### 🛒 E-COMMERCE
-
-Full Stack Shopping Platform
-
-`React` `Node.js` `Express` `MongoDB` `JWT`
-
-🛍️ Products • 🛒 Cart • 🔐 Authentication • 📦 API
-
----
-
-### 💻 DEVELOPER PORTFOLIO
-
-Interactive Developer Portfolio
-
-`React` `GSAP` `JavaScript`
-
-✨ Animations • 🎨 Modern UI • ⚡ Interactive Design • 📱 Responsive
-
-</div>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-🏅 **Internal College Hackathon Winner**
-
-🏆 **Smart India Hackathon — 2025 Selected**
-
-🚀 **SPARC Workshop — IIT Bhubaneswar**
-
-💻 **100+ DSA Problems Solved**
-
-</div>
-
----
-
-# 📊 GITHUB
-
-<div align="center">
-
-<a href="https://github.com/anuxoo001">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anuxoo001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-</a>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c" alt="Programming Languages">
 
 <br><br>
 
-<a href="https://github.com/anuxoo001">
+### 🎨 Frontend
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuxoo001&layout=compact&theme=tokyonight&hide_border=true" />
-
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="Frontend Technologies">
 
 <br><br>
 
-<a href="https://github.com/anuxoo001">
+### ⚙️ Backend
 
-<img src="https://streak-stats.demolab.com?user=anuxoo001&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies">
 
-</a>
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases">
+
+<br><br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Development Tools">
 
 </div>
 
 ---
 
-# 📈 CONTRIBUTIONS
+## 🧠 Technical Skills
+
+<div align="center">
+
+| Category       | Technologies                                      |
+| -------------- | ------------------------------------------------- |
+| **Languages**  | Java • JavaScript • Python • C                    |
+| **Frontend**   | React.js • HTML • CSS • Tailwind CSS • Bootstrap  |
+| **Backend**    | Node.js • Express.js                              |
+| **Database**   | MongoDB • MySQL                                   |
+| **Stack**      | MERN                                              |
+| **Concepts**   | OOP • REST APIs • DSA • Responsive Web Design     |
+| **Tools**      | Git • GitHub • Postman • Thunder Client • VS Code |
+| **Deployment** | GitHub Pages • Vercel • Render                    |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔵 Clixter
+
+### MERN Social Content Platform
+
+A social media platform focused on content sharing and communication.
+
+**Features**
+
+```text
+🔐 User Authentication
+💬 Chat System
+🎥 Video Sharing
+📸 Stories
+📤 Content Sharing
+🌐 REST APIs
+⚡ React Interface
+🟢 Node.js Backend
+🍃 MongoDB Database
+```
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JavaScript`
+
+---
+
+## 🟢 TourSafe
+
+### Smart Travel Safety Platform
+
+A travel-oriented platform designed to help users identify safer and potentially dangerous areas.
+
+**Features**
+
+```text
+🔴 Red Zone
+🟢 Green Zone
+🚨 Emergency Siren
+📍 Location Features
+🔐 Authentication
+🌐 REST APIs
+```
+
+**Tech Stack**
+
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+---
+
+## 🛒 E-Commerce Platform
+
+### Full Stack MERN Application
+
+A complete e-commerce application with frontend and backend integration.
+
+**Features**
+
+```text
+👤 User Authentication
+🛍️ Product Management
+🛒 Shopping Cart
+📦 Orders
+🔐 JWT Authentication
+🌐 REST APIs
+🍃 MongoDB
+```
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+---
+
+## 💻 Developer Portfolio
+
+### Interactive Developer Portfolio
+
+An interactive portfolio focused on modern UI, animations and developer identity.
+
+**Technologies**
+
+```text
+⚛️ React.js
+⚡ JavaScript
+🎬 GSAP
+🎨 CSS
+✨ Interactive Animations
+```
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="./assets/contributions.svg" width="100%" alt="GitHub Contribution Graph">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/developer.svg" width="90%" alt="Developer Animation">
+
+</div>
+
+---
+
+# 💼 Experience
+
+## 🟢 MERN Stack Intern — Glucian
+
+**May 2025 – July 2025**
+
+```text
+MongoDB
+Express.js
+React.js
+Node.js
+REST APIs
+Authentication
+```
+
+Worked on full-stack web development and gained practical experience in building MERN applications.
+
+---
+
+## 🔵 Core Java Intern — CTTC Bhubaneswar
+
+**July 2024**
+
+```text
+Java
+OOP
+Data Structures
+Application Development
+```
+
+Worked on Java fundamentals, object-oriented programming and application development.
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+```text
+🏆  Internal College Hackathon Winner
+
+🚀  Smart India Hackathon 2025
+    Selected Team
+
+🎓  SPARC Workshop
+    IIT Bhubaneswar
+
+📚  100+ DSA Problems Solved
+
+☕  NPTEL Programming in Java
+
+🏭  NPTEL Introduction to Industry 4.0 & IIoT
+```
+
+</div>
+
+---
+
+# 📜 Certifications
+
+```text
+☕ NPTEL — Programming in Java
+   Score: 55%
+
+🏭 NPTEL — Introduction to Industry 4.0 and IIoT
+   Score: 75%
+
+📊 Infosys Springboard — HandsOn Data Analytics with R
+
+🎓 SPARC Workshop — IIT Bhubaneswar
+   Frontiers of AI, Cloud & Quantum Computing
+```
+
+---
+
+# 🔥 Current Focus
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────┐
+│                                         │
+│       🚀 FULL STACK DEVELOPMENT         │
+│                                         │
+│       ⚛️  React.js                     │
+│       🟢 Node.js                       │
+│       🚂 Express.js                    │
+│       🍃 MongoDB                       │
+│       ☕ Java + DSA                    │
+│       🌐 REST APIs                     │
+│       🧠 Problem Solving               │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 🧩 Development Workflow
+
+<div align="center">
+
+```text
+        💡 IDEA
+          │
+          ▼
+     🎨 UI / UX
+          │
+          ▼
+     ⚛️ REACT.JS
+          │
+          ▼
+    🌐 REST API
+          │
+          ▼
+   🟢 NODE + EXPRESS
+          │
+          ▼
+    🍃 MONGODB
+          │
+          ▼
+      🧪 TESTING
+          │
+          ▼
+      🚀 DEPLOYMENT
+```
+
+</div>
+
+---
+
+# 📈 My Developer Journey
+
+```text
+2024
+ │
+ ├── ☕ Core Java Internship
+ │
+ ▼
+2025
+ │
+ ├── 🚀 MERN Stack Internship
+ ├── 🏆 Hackathon
+ └── 🚀 Smart India Hackathon Selection
+ │
+ ▼
+2026
+ │
+ ├── ⚛️ Advanced MERN Development
+ ├── ☕ Java + DSA
+ ├── 🌐 Full Stack Projects
+ └── 🎓 SPARC Workshop — IIT Bhubaneswar
+ │
+ ▼
+2027
+ │
+ └── 🎯 Full Stack Software Engineering
+```
+
+---
+
+# 💬 Developer Philosophy
+
+<div align="center">
+
+### `Code → Build → Break → Debug → Learn → Repeat`
+
+<br>
+
+**"Don't just learn technologies. Build with them."**
+
+</div>
+
+---
+
+# 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/anuxoo001">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuxoo001&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
-</a>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anuxoo001/anuxoo001/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 CURRENT FOCUS
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2000&pause=600&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack;Backend+Engineering;Java+DSA;REST+APIs;System+Design;Open+Source"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 CONNECT
-
-<a href="https://github.com/anuxoo001">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-anuxoo001-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.linkedin.com/in/ananta-kumar-parida-24b991294/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:aparida2023@gift.edu.in">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail">
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## ⚡ CODE • BUILD • LEARN • REPEAT
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Today.;Learning+Every+Day.;Turning+Ideas+Into+Code."/>
+<img src="./assets/banner.svg" width="70%" alt="Footer">
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:0f172a,100:020617&height=140&section=footer"/>
+### ⚡ Building the future, one commit at a time.
 
 </div>
