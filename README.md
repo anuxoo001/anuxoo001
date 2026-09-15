@@ -1,90 +1,82 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Ananta Kumar Parida Banner">
-
-<br><br>
-
-<img src="./assets/developer.svg" width="420" alt="Developer">
-
-<br>
-
 # 👋 Hi, I'm Ananta Kumar Parida
 
-### 💻 Full Stack Developer • MERN Stack • Java • DSA
+### 💻 Full Stack Developer | MERN Stack | Java | DSA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Java+%7C+DSA;Building+Real+World+Applications" alt="Typing">
+<br>
 
-<br><br>
-
-<a href="https://github.com/anuxoo001">
-<img src="https://img.shields.io/badge/GitHub-anuxoo001-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/ananta-kumar-parida-24b991294/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:aparida2023@gift.edu.in">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
-</a>
+<img src="https://raw.githubusercontent.com/anuxoo001/anuxoo001/main/assets/banner.gif" width="100%" alt="Developer Banner">
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=header" width="100%">
-
-</div>
-
-# 🧑‍💻 Who Am I?
+## 🚀 About Me
 
 <div align="center">
 
-<img src="./assets/coding.svg" width="500" alt="Coding">
+### 💻 Full Stack Developer
 
-</div>
+**React.js • Node.js • Express.js • MongoDB • Java**
 
-<br>
-
-<div align="center">
-
-```text
-🎓 B.Tech CSE
-        ↓
-💻 Full Stack Development
-        ↓
-⚛️ React.js
-        ↓
-🟢 Node.js + Express.js
-        ↓
-🍃 MongoDB + MySQL
-        ↓
-☕ Java + DSA
-        ↓
-🚀 Real World Projects
-```
+I enjoy building modern, responsive and real-world web applications.
 
 </div>
 
 ---
 
-# ⚡ My Technology Universe
+## 🛠️ Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,vscode" width="850" alt="Technology Stack">
+### Programming
+
+`Java` `JavaScript` `Python` `C`
+
+### Frontend
+
+`HTML` `CSS` `React.js` `Tailwind CSS` `Bootstrap`
+
+### Backend
+
+`Node.js` `Express.js` `REST APIs`
+
+### Database
+
+`MongoDB` `MySQL`
+
+### Tools
+
+`Git` `GitHub` `Postman` `Thunder Client` `VS Code`
+
+</div>
+
+---
+
+## 📊 My GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anuxoo001&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuxoo001&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages">
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=anuxoo001&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak">
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="./assets/tech-stack.svg" width="850" alt="Technology Stack Visualization">
-
-</div>
+> ⭐ Your actual GitHub contribution calendar is automatically displayed on your GitHub profile. It does not need to be embedded in the README.
 
 ---
 
@@ -92,185 +84,98 @@
 
 <div align="center">
 
-<img src="./assets/projects.svg" width="850" alt="Projects">
+<img src="https://raw.githubusercontent.com/anuxoo001/anuxoo001/main/assets/projects.gif" width="90%" alt="Projects">
 
 </div>
 
-<br>
+---
 
-## 🔵 CLIXTER
-
-<div align="center">
-
-<img src="./assets/clixter.svg" width="750" alt="Clixter Project">
-
-</div>
+## 🔵 Clixter
 
 ### MERN Social Content Platform
 
-```text
-⚛️ React.js
-🟢 Node.js
-🚂 Express.js
-🍃 MongoDB
-🔐 Authentication
-💬 Chat
-🎥 Video Sharing
-📸 Stories
-📤 Content Sharing
-🌐 REST APIs
-```
+**Features**
+
+* 🔐 Authentication
+* 💬 Chat
+* 🎥 Video sharing
+* 📸 Stories
+* 📤 Content sharing
+* 🌐 REST APIs
+* ⚛️ React.js
+* 🟢 Node.js
+* 🍃 MongoDB
+
+**Stack**
+
+`MongoDB` `Express.js` `React.js` `Node.js`
 
 ---
 
-## 🟢 TOURSAFE
-
-<div align="center">
-
-<img src="./assets/toursafe.svg" width="750" alt="TourSafe Project">
-
-</div>
+## 🟢 TourSafe
 
 ### Smart Travel Safety Platform
 
-```text
-🔴 Red Zone
-🟢 Green Zone
-🚨 Emergency Siren
-📍 Location Features
-🔐 Authentication
-🌐 REST APIs
-⚛️ React
-🟢 Node.js
-🍃 MongoDB
-```
+**Features**
+
+* 🔴 Red Zone
+* 🟢 Green Zone
+* 🚨 Emergency Siren
+* 📍 Location-based features
+* 🔐 Authentication
+* 🌐 REST APIs
+
+**Stack**
+
+`MongoDB` `Express.js` `React.js` `Node.js`
 
 ---
 
-## 🛒 E-COMMERCE
+## 🛒 E-Commerce
 
-<div align="center">
+### Full Stack MERN Application
 
-<img src="./assets/ecommerce.svg" width="750" alt="E-Commerce Project">
+**Features**
 
-</div>
-
-### Full Stack E-Commerce Platform
-
-```text
-👤 Authentication
-🛍️ Products
-🛒 Cart
-📦 Orders
-🔐 JWT
-🌐 REST APIs
-🍃 MongoDB
-⚛️ React
-```
+* 👤 User authentication
+* 🛍️ Product management
+* 🛒 Shopping cart
+* 📦 Orders
+* 🔐 JWT authentication
+* 🌐 REST APIs
+* 🍃 MongoDB
 
 ---
 
-## 💻 DEVELOPER PORTFOLIO
+## 💻 Developer Portfolio
 
-<div align="center">
+### Interactive Developer Portfolio
 
-<img src="./assets/portfolio.svg" width="750" alt="Developer Portfolio">
+**Technologies**
 
-</div>
-
-### Interactive Portfolio
-
-```text
-⚛️ React.js
-🎬 GSAP
-✨ Animations
-🎨 Modern UI
-💻 JavaScript
-```
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="./assets/contributions.svg" width="100%" alt="GitHub Contributions">
-
-<br><br>
-
-<img src="./assets/github-activity.svg" width="850" alt="GitHub Activity">
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake">
-
-</div>
-
----
-
-# 💻 Coding Mode
-
-<div align="center">
-
-<img src="./assets/developer-animation.svg" width="700" alt="Developer Animation">
-
-</div>
-
-<br>
-
-```text
-while(alive) {
-
-    learn();
-    code();
-    build();
-    debug();
-    improve();
-
-}
-```
+`React.js` `JavaScript` `GSAP` `CSS`
 
 ---
 
 # 💼 Experience
 
-<div align="center">
-
-<img src="./assets/experience.svg" width="700" alt="Experience">
-
-</div>
-
-### 🟢 MERN Stack Intern — Glucian
+## 🟢 MERN Stack Intern — Glucian
 
 **May 2025 – July 2025**
 
-```text
-React.js
-Node.js
-Express.js
-MongoDB
-REST APIs
-Authentication
-```
+Worked with:
+
+`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
 ---
 
-### 🔵 Core Java Intern — CTTC Bhubaneswar
+## 🔵 Core Java Intern — CTTC Bhubaneswar
 
 **July 2024**
 
-```text
-Java
-OOP
-Data Structures
-Application Development
-```
+Worked with:
+
+`Java` `OOP` `Data Structures` `Application Development`
 
 ---
 
@@ -278,120 +183,89 @@ Application Development
 
 <div align="center">
 
-<img src="./assets/achievements.svg" width="700" alt="Achievements">
+🏆 **Internal College Hackathon Winner**
+
+<br><br>
+
+🚀 **Smart India Hackathon 2025 — Selected**
+
+<br><br>
+
+🎓 **SPARC Workshop — IIT Bhubaneswar**
+
+<br><br>
+
+📚 **100+ DSA Problems Solved**
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anuxoo001&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="850" alt="GitHub Trophies">
-
-</div>
-
-<br>
-
-```text
-🏆 Internal College Hackathon Winner
-
-🚀 Smart India Hackathon 2025
-   Selected Team
-
-🎓 SPARC Workshop
-   IIT Bhubaneswar
-
-📚 100+ DSA Problems Solved
-
-☕ NPTEL Programming in Java — 55%
-
-🏭 NPTEL Industry 4.0 & IIoT — 75%
-```
 
 ---
 
 # 📜 Certifications
 
+* ☕ NPTEL — Programming in Java — **55%**
+* 🏭 NPTEL — Introduction to Industry 4.0 and IIoT — **75%**
+* 📊 Infosys Springboard — HandsOn Data Analytics with R
+* 🎓 SPARC Workshop — IIT Bhubaneswar
+
+---
+
+# 🔥 Currently Learning
+
 <div align="center">
 
-<img src="./assets/certifications.svg" width="700" alt="Certifications">
+```text
+React.js
+    ↓
+Node.js
+    ↓
+Express.js
+    ↓
+MongoDB
+    ↓
+REST APIs
+    ↓
+Java + DSA
+    ↓
+Full Stack Development
+```
 
 </div>
 
 ---
 
-# 🔥 Current Focus
+# 📈 My Developer Journey
 
 <div align="center">
 
-<img src="./assets/current-focus.svg" width="800" alt="Current Focus">
+| Year     | Journey                            |
+| -------- | ---------------------------------- |
+| **2024** | ☕ Core Java Internship             |
+| **2025** | ⚛️ MERN Stack Internship           |
+| **2025** | 🏆 Hackathon & SIH Selection       |
+| **2026** | 🚀 Advanced Full Stack Development |
+| **2026** | 💻 Real-world MERN Projects        |
+| **2027** | 🎯 Software Engineering            |
 
 </div>
+
+---
+
+# 💻 Coding Philosophy
+
+<div align="center">
+
+### `Code → Build → Debug → Learn → Repeat`
 
 <br>
 
-```text
-⚛️ React.js
-🟢 Node.js
-🚂 Express.js
-🍃 MongoDB
-☕ Java
-🧠 DSA
-🌐 REST APIs
-🚀 Full Stack Development
-```
+<img src="https://img.shields.io/badge/BUILD-Projects-2563EB?style=for-the-badge">
 
----
+<img src="https://img.shields.io/badge/LEARN-Everyday-06B6D4?style=for-the-badge">
 
-# 🧠 My Development Process
-
-<div align="center">
-
-<img src="./assets/workflow.svg" width="850" alt="Development Workflow">
+<img src="https://img.shields.io/badge/IMPROVE-Always-7C3AED?style=for-the-badge">
 
 </div>
-
-```text
-IDEA
- ↓
-DESIGN
- ↓
-DEVELOPMENT
- ↓
-API
- ↓
-DATABASE
- ↓
-TESTING
- ↓
-DEPLOYMENT
- ↓
-🚀 PRODUCT
-```
-
----
-
-# 📈 Developer Journey
-
-<div align="center">
-
-<img src="./assets/journey.svg" width="850" alt="Developer Journey">
-
-</div>
-
-```text
-2024 → Java
-        ↓
-2025 → MERN
-        ↓
-2025 → Hackathons
-        ↓
-2026 → Advanced Full Stack
-        ↓
-2026 → Projects
-        ↓
-2027 → Software Engineering 🚀
-```
 
 ---
 
@@ -399,32 +273,24 @@ DEPLOYMENT
 
 <div align="center">
 
-<img src="./assets/connect.svg" width="600" alt="Connect">
+<a href="https://github.com/anuxoo001">
+GitHub
+</a>
+
+  •  
+
+<a href="https://www.linkedin.com/in/ananta-kumar-parida-24b991294/">
+LinkedIn
+</a>
+
+  •  
+
+<a href="mailto:aparida2023@gift.edu.in">
+Email
+</a>
 
 <br><br>
 
-<a href="https://github.com/anuxoo001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/ananta-kumar-parida-24b991294/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:aparida2023@gift.edu.in">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./assets/footer.svg" width="100%" alt="Footer">
-
-<br>
-
-### ⚡ Code • Build • Learn • Repeat
+### ⚡ Building the future, one commit at a time.
 
 </div>
